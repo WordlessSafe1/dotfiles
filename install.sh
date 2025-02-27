@@ -28,7 +28,7 @@ else
 		wget https://raw.githubusercontent.com/WordlessSafe1/dotfiles/refs/heads/master/$file
 	done
 
-	./install.sh link
+	bash ./install.sh link
 fi
 
 
